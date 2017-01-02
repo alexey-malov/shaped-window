@@ -1,0 +1,1 @@
+before running the application, copy the bitmap image file into the debug or the release directory.
